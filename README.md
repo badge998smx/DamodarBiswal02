@@ -34,7 +34,8 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damodarbiswal02" alt="GitHub streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damodarbiswal02d&" alt="damodarbiswal02d" /></p>
+
 
 ![Damodar's GitHub stats](https://github-readme-stats.vercel.app/api?username=damodarbiswal02&hide=contribs,prs)
 ![Damodar's GitHub stats](https://github-readme-stats.vercel.app/api?username=damodarbiswal02&show_icons=true&theme=radical)
