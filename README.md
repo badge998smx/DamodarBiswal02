@@ -7,11 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=damodarbiswal02d&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working on **Food Delivery App**
+- 🔭 I’m currently working on **Building concept on react and js**
 - 🌱 I’m currently learning **React.js**
 - 💬 Ask me about **Java, JavaScript**
 - 📫 How to reach me: **damodarbiswal2004@gmail.com**
-- ⚡ Fun fact: **I think I am funny**
+- ⚡ Fun fact: **When I'm not coding U can see me playing bgmi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
